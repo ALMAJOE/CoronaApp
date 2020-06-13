@@ -3,7 +3,7 @@ O projeto CoronaApp trata-se de um aplicativo mobile de consulta de dados sobre 
 
 **Objetivo**
 
-Desenvolver um aplicativo mobile para exibir as informações sobre o coronavirus em cada estado brasileiro, fornecendo informações do tipo casos confirmados, mortes, suspeitos, recuperados e data de atualização desses dados que são fornecidos pela API.
+Desenvolver um aplicativo mobile para exibir as informações sobre o coronavirus em cada estado brasileiro, fornecendo informações do tipo casos confirmados, mortes, suspeitos, recuperados e data de atualização desses dados que são fornecidos pela API. A API está localizada no Back-end da aplicação, juntamente com um crawler para acessar as imagens das bandeiras de cada estado. 
 
 **Justificativa**
 
@@ -25,9 +25,7 @@ Frameworks:
 - Expo CLI
 - Axios
 
-APIs:
-
-- [COVID-19 BRAZIL API](https://covid19-brazil-api.now.sh/)
+- [Back-end](https://github.com/EmanuelOSSouza/CoronaAppBack)
 
 
 **Autores**
