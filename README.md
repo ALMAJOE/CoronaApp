@@ -9,6 +9,9 @@ Desenvolver um aplicativo mobile para exibir as informações sobre o coronaviru
 
 Essa aplicação faz parte de uma atividade das aulas de Desenvolvimento Mobile do curso de Desenvolvimento de Sistemas do Senai.
 
+
+[Back-end](https://github.com/EmanuelOSSouza/CoronaAppBack)
+
 **Pré-requisitos**
 
 - Node JS
@@ -25,7 +28,7 @@ Frameworks:
 - Expo CLI
 - Axios
 
-- [Back-end](https://github.com/EmanuelOSSouza/CoronaAppBack)
+
 
 
 **Autores**
