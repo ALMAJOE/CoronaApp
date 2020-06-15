@@ -38,8 +38,6 @@ Foto | Nome | GitHub | Likedin | E-mail
 <img src="" width="100px"> | Railton Santana | [Railton Santana](https://github.com/Railton-Santana) | [Linkedin](https://br.linkedin.com/in/railton-santana-b261911a9) | --
 <img src="" width="100px"> | José Almiro | [José Almiro](https://github.com/ALMAJOE) | [Linkedin](https://www.linkedin.com/in/jos%C3%A9-lima-47ab61186/) | joselimasant@gmail.com
 <img src="" width="100px"> | Luís Felipe Palmeira | [Luís Felipe](https://github.com/LFSP95) | [Linkedin](https://github.com/LFSP95/CoronaApp/blob/master/www.linkedin.com/in/luispalmeira) | ipe_palmeira@hotmail.com
---
---
 
 
 
